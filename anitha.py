@@ -1,9 +1,9 @@
-a=int(input())
+a=int(input(" "))
 if a>0:
- print('positive')
+ print('Positive')
 elif a<0:
- print('negative')
-else a=0:
- print('zero')
+ print('Negative')
+else a==0:
+ print('Zero')
  
  
